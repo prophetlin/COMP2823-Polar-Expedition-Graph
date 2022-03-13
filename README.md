@@ -1,4 +1,3 @@
-# COMP2823-Polar-Expedition-Graph
 # Polar Expedition
 
 
